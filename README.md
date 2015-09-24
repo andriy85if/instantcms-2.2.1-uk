@@ -1,5 +1,5 @@
 # instantcms-2.x-uk
-Ukrainian localization for InstantCMS 2.x
+Ukrainian localization for InstantCMS 2.2.1
 
 Тут локалізація всього дистрибутиву крім редактора Live.
 Також немає перекладу для населених пунктів, які обираються в профілі користувача
